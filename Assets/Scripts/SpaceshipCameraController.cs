@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Cinemachine;
 
-public class CameraController : MonoBehaviour
+public class SpaceshipCameraController : MonoBehaviour
 {
     [SerializeField] private GameObject _spaceshipCockpit;
     [SerializeField] private GameObject _spaceshipExt;
